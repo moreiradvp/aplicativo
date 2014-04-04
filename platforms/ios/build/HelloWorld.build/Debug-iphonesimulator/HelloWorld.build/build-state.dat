@@ -1,0 +1,815 @@
+THelloWorld
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Info.plist /Users/adriano/aplicativo/platforms/ios/HelloWorld/HelloWorld-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+cCpResource HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png
+cCpResource HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png
+cCpResource HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png
+cCpResource HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png
+cCpResource HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png
+cCopyStringsFile /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.xib
+cCpResource HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png
+cCpResource HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png
+cCopyStringsFile /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings
+cCpResource HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png
+cCpResource HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+cCpResource HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+cCpResource HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+cCpResource HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png
+cCpResource HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+cCpResource HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png
+cCpResource HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png
+cCpResource HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png
+cCpResource HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png
+cCpResource HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+cCpResource HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png
+cCpResource HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png
+cCpResource HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png
+cProcessPCH /var/folders/wk/zct9m71s0ls16mc4zdy13dpc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-ccaoxlikuvjpxpebwgjpwoyofdgg/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/adriano/aplicativo/platforms/ios/HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o /Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o /Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/HelloWorld normal i386
+cGenerateDSYMFile /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app.dSYM /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+cTouch /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005307648C00000000000003B5
+t1392993420
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000530764C300000000000001A0
+t1392993475
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000530764CA0000000000059350
+t1392993482
+s365392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000530764D30000000000445870
+t1392993491
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000530764D400000000000EC820
+t1392993492
+s968736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000530764E400000000001BA530
+t1392993508
+s1811760
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/AppDelegate.m
+c00000000533E0DE800000000000013AB
+t1396575720
+s5035
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.m
+c00000000533E0DE8000000000000126B
+t1396575720
+s4715
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.xib
+c00000000533E0DE80000000000001759
+t1396575720
+s5977
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/HelloWorld-Info.plist
+c00000000533E0DEA0000000000000A13
+t1396575722
+s2579
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/HelloWorld-Prefix.pch
+c00000000533E0DE800000000000003C5
+t1396575720
+s965
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/de.lproj/Localizable.strings
+c00000000533E0DE800000000000004C0
+t1396575720
+s1216
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/en.lproj/Localizable.strings
+c00000000533E0DE800000000000004AB
+t1396575720
+s1195
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-40.png
+c00000000533E0DE80000000000000FF2
+t1396575720
+s4082
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-40@2x.png
+c00000000533E0DE80000000000001CF3
+t1396575720
+s7411
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-50.png
+c00000000533E0DE8000000000000130A
+t1396575720
+s4874
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-50@2x.png
+c00000000533E0DE8000000000000258B
+t1396575720
+s9611
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-60.png
+c00000000533E0DE800000000000016B3
+t1396575720
+s5811
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-60@2x.png
+c00000000533E0DE80000000000002E94
+t1396575720
+s11924
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-72.png
+c00000000533E0DE80000000000001350
+t1396575720
+s4944
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-72@2x.png
+c00000000533E0DE80000000000002DBA
+t1396575720
+s11706
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-76.png
+c00000000533E0DE80000000000001B71
+t1396575720
+s7025
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-76@2x.png
+c00000000533E0DE80000000000003B9E
+t1396575720
+s15262
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-small.png
+c00000000533E0DE80000000000000CDE
+t1396575720
+s3294
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-small@2x.png
+c00000000533E0DE800000000000015E8
+t1396575720
+s5608
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon.png
+c00000000533E0DE80000000000000F3E
+t1396575720
+s3902
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon@2x.png
+c00000000533E0DE80000000000001EBD
+t1396575720
+s7869
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/splash/Default-568h@2x~iphone.png
+c00000000533E0DE800000000000085B1
+t1396575720
+s34225
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000533E0DE80000000000033D0A
+t1396575720
+s212234
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/splash/Default-Landscape~ipad.png
+c00000000533E0DE800000000000166A2
+t1396575720
+s91810
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000533E0DE80000000000033F7C
+t1396575720
+s212860
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/splash/Default-Portrait~ipad.png
+c00000000533E0DE80000000000016641
+t1396575720
+s91713
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/splash/Default@2x~iphone.png
+c00000000533E0DE80000000000007323
+t1396575720
+s29475
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/splash/Default~iphone.png
+c00000000533E0DE8000000000000289A
+t1396575720
+s10394
+
+N/Users/adriano/aplicativo/platforms/ios/HelloWorld/main.m
+c00000000533E0DE8000000000000045C
+t1396575720
+s1116
+
+N/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+t1396575727
+s77528
+
+N/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c00000000533E0DED0000000000000198
+t1396575725
+s408
+
+N/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+t1396575727
+s53520
+
+N/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t1396575727
+s3052
+
+N/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+c00000000533E0DED000000000000002D
+t1396575725
+s45
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app
+t1396575728
+s1020
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app.dSYM
+t2
+s0
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+t1396575726
+s34225
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+t1396575726
+s212234
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+t1396575726
+s91810
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+t1396575726
+s212860
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+t1396575726
+s91713
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Default@2x~iphone.png
+t1396575726
+s29475
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Default~iphone.png
+t1396575726
+s10394
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+t1396575728
+s280472
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Info.plist
+t1396575725
+s1287
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/MainViewController.nib
+t1396575727
+s1332
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/PkgInfo
+t2
+s0
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings
+t1396575726
+s280
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings
+t1396575726
+s166
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-40.png
+t1396575726
+s4082
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-40@2x.png
+t1396575726
+s7411
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-50.png
+t1396575726
+s4874
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-50@2x.png
+t1396575726
+s9611
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-60.png
+t1396575726
+s5811
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-60@2x.png
+t1396575726
+s11924
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-72.png
+t1396575726
+s4944
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-72@2x.png
+t1396575726
+s11706
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-76.png
+t1396575726
+s7025
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-76@2x.png
+t1396575726
+s15262
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-small.png
+t1396575726
+s3294
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-small@2x.png
+t1396575726
+s5608
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon.png
+t1396575726
+s3902
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon@2x.png
+t1396575726
+s7869
+
+N/Users/adriano/aplicativo/platforms/ios/build/emulator/libCordova.a
+c00000000533E0DED00000000000D8FE0
+t1396575725
+s888800
+
+N/var/folders/wk/zct9m71s0ls16mc4zdy13dpc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-ccaoxlikuvjpxpebwgjpwoyofdgg/HelloWorld-Prefix.pch.pch
+t1396575727
+s5342264
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies48c5bf6d45eeb841^a4dfc26d45eeb841^---0#1#1#--18"Check dependencies36"DEBAF991-62F4-4A7F-92E0-4F6A8556CA49-
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o /Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418268527.786218
+e418268527.888486
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+x/Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/AppDelegate.m
+d/Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/AppDelegate.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/AppDelegate.m221"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o [1mHelloWorld/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler42b5c96f45eeb841^7289e36f45eeb841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/AppDelegate.m0000000000000000^3620"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o [1mHelloWorld/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adriano/aplicativo/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/adriano/aplicativo/platforms/ios/build/emulator/include -I/Users/adriano/aplicativo/platforms/ios/build/emulator/usr/local/lib/include -I/Users/adriano/aplicativo/platforms/ios/build/UninstalledProducts/include -I/Users/adriano/aplicativo/platforms/ios/build/emulator -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/adriano/aplicativo/platforms/ios/build/emulator -include /var/folders/wk/zct9m71s0ls16mc4zdy13dpc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-ccaoxlikuvjpxpebwgjpwoyofdgg/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.dia -c /Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/AppDelegate.m -o /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o36"EFD46608-AEF7-4E30-8792-2EC52A588C27-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o /Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418268527.815745
+e418268527.896824
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+x/Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.m
+d/Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.m235"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o [1mHelloWorld/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc7f4d06f45eeb841^0f9ae56f45eeb841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.m0000000000000000^3662"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o [1mHelloWorld/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adriano/aplicativo/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/adriano/aplicativo/platforms/ios/build/emulator/include -I/Users/adriano/aplicativo/platforms/ios/build/emulator/usr/local/lib/include -I/Users/adriano/aplicativo/platforms/ios/build/UninstalledProducts/include -I/Users/adriano/aplicativo/platforms/ios/build/emulator -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/adriano/aplicativo/platforms/ios/build/emulator -include /var/folders/wk/zct9m71s0ls16mc4zdy13dpc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-ccaoxlikuvjpxpebwgjpwoyofdgg/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.dia -c /Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.m -o /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o36"5A2A44CA-E69E-4431-8BC9-2AF2FBF62B5F-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/adriano/aplicativo/platforms/ios/HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418268527.785314
+e418268527.815402
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+x/Users/adriano/aplicativo/platforms/ios/HelloWorld/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adriano/aplicativo/platforms/ios/HelloWorld/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/adriano/aplicativo/platforms/ios/HelloWorld/main.m199"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o [1mHelloWorld/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9c34c96f45eeb841^b9ffd06f45eeb841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/adriano/aplicativo/platforms/ios/HelloWorld/main.m0000000000000000^3562"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o [1mHelloWorld/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adriano/aplicativo/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/adriano/aplicativo/platforms/ios/build/emulator/include -I/Users/adriano/aplicativo/platforms/ios/build/emulator/usr/local/lib/include -I/Users/adriano/aplicativo/platforms/ios/build/UninstalledProducts/include -I/Users/adriano/aplicativo/platforms/ios/build/emulator -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/adriano/aplicativo/platforms/ios/build/emulator -include /var/folders/wk/zct9m71s0ls16mc4zdy13dpc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-ccaoxlikuvjpxpebwgjpwoyofdgg/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.dia -c /Users/adriano/aplicativo/platforms/ios/HelloWorld/main.m -o /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o36"D5ECED7A-7CC9-45A4-AB99-54931DC60160-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCompileXIB /Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.xib
+s418268526.087735
+e418268527.261633
+r1
+xCompileXIB
+x/Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.xib68"[1mCompileXIB[0m [1mHelloWorld/Classes/MainViewController.xib[0m1e8a166e45eeb841^e7fe426f45eeb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.xib0000000000000000^806"[1mCompileXIB[0m [1mHelloWorld/Classes/MainViewController.xib[0m    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 5.0 --output-format human-readable-text --compile /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/MainViewController.nib /Users/adriano/aplicativo/platforms/ios/HelloWorld/Classes/MainViewController.xib36"3D292D32-E028-483F-8616-E4EA8BC79B50-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCopyStringsFile /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings
+s418268526.097223
+e418268526.099500
+r1
+xCopyStringsFile
+x/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings
+xHelloWorld/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld/Resources/de.lproj/Localizable.strings132"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.stringsa227196e45eeb841^cfa0196e45eeb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/de.lproj/Localizable.strings0000000000000000^612"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/de.lproj -- HelloWorld/Resources/de.lproj/Localizable.strings36"68A45E90-AA8B-4D7A-90C3-A3C5760EB612-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCopyStringsFile /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings
+s418268526.085819
+e418268526.090905
+r1
+xCopyStringsFile
+x/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings
+xHelloWorld/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld/Resources/en.lproj/Localizable.strings132"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.stringse812166e45eeb841^0075176e45eeb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/en.lproj/Localizable.strings0000000000000000^612"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/en.lproj -- HelloWorld/Resources/en.lproj/Localizable.strings36"097171FA-EE8B-4F20-B916-BB556E12D937-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png
+s418268526.117982
+e418268526.120863
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-40.png
+xbuild/emulator/HelloWorld.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-40.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.pnge9481e6e45eeb841^e42d1f6e45eeb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-40.png00348ca8dcffdf42^618"[1mCpResource[0m HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-40.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"5972FB88-E7D1-4CFC-99EC-D83DCE9E5C77-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png
+s418268526.081002
+e418268526.082738
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-40@2x.png
+xbuild/emulator/HelloWorld.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-40@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.pngcfd7146e45eeb841^412e156e45eeb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-40@2x.png00348ca8dcffdf42^627"[1mCpResource[0m HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-40@2x.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"E363008B-E75A-4ADE-B884-26775593AF6E-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png
+s418268526.091163
+e418268526.094110
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-50.png
+xbuild/emulator/HelloWorld.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-50.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.pngbe6c176e45eeb841^8446186e45eeb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-50.png00348ca8dcffdf42^618"[1mCpResource[0m HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-50.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"BA9839B1-638F-413B-AA6B-401DE060AE1D-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png
+s418268526.130004
+e418268526.132153
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-50@2x.png
+xbuild/emulator/HelloWorld.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-50@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png4889216e45eeb841^2cd5216e45eeb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-50@2x.png00348ca8dcffdf42^627"[1mCpResource[0m HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-50@2x.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"53B6178B-5BC9-42A6-A842-B076BC4D10B0-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png
+s418268526.123361
+e418268526.124532
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-60.png
+xbuild/emulator/HelloWorld.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-60.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png0da81f6e45eeb841^88f41f6e45eeb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-60.png00348ca8dcffdf42^618"[1mCpResource[0m HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-60.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"E2472769-9B48-4274-803C-C288968BCC28-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png
+s418268526.094338
+e418268526.096341
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-60@2x.png
+xbuild/emulator/HelloWorld.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-60@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.pngde39186e45eeb841^e1b8186e45eeb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-60@2x.png00348ca8dcffdf42^627"[1mCpResource[0m HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-60@2x.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"8732178B-0FEF-4AA3-BCF4-0E25CF81986F-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png
+s418268526.082966
+e418268526.085292
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-72.png
+xbuild/emulator/HelloWorld.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-72.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.pngf65d156e45eeb841^a2d1156e45eeb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-72.png00348ca8dcffdf42^618"[1mCpResource[0m HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-72.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"443FBB5B-A909-46A6-914E-904DEC175EF3-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png
+s418268526.134108
+e418268526.135078
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-72@2x.png
+xbuild/emulator/HelloWorld.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-72@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png6b65226e45eeb841^6f9e226e45eeb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-72@2x.png00348ca8dcffdf42^627"[1mCpResource[0m HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-72@2x.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"16718DC4-185B-4F90-9999-B90A7CB0B957-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png
+s418268526.080442
+e418268526.082018
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-76.png
+xbuild/emulator/HelloWorld.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-76.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png10b2146e45eeb841^e90f156e45eeb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-76.png00348ca8dcffdf42^618"[1mCpResource[0m HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-76.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"CF3F4D97-A739-4ECF-94D9-9ED240DE8AB0-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png
+s418268526.132643
+e418268526.133689
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-76@2x.png
+xbuild/emulator/HelloWorld.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-76@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.pngd507226e45eeb841^904d226e45eeb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-76@2x.png00348ca8dcffdf42^627"[1mCpResource[0m HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-76@2x.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"479A4835-2394-4126-885C-5DFE29C13B13-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png
+s418268526.099704
+e418268526.101389
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-small.png
+xbuild/emulator/HelloWorld.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-small.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png8d98196e45eeb841^3f1e1a6e45eeb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-small.png00348ca8dcffdf42^627"[1mCpResource[0m HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-small.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"155F9D9B-D6F4-4E4C-8ECA-D9E6990326A8-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png
+s418268526.109688
+e418268526.111014
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-small@2x.png
+xbuild/emulator/HelloWorld.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/HelloWorld.app/icon-small@2x.png111"[1mCpResource[0m HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png17291c6e45eeb841^cf6b1c6e45eeb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon-small@2x.png00348ca8dcffdf42^636"[1mCpResource[0m HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon-small@2x.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"A4D98370-609B-4026-9F20-D9E758B20D3A-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png
+s418268526.082967
+e418268526.084470
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon.png
+xbuild/emulator/HelloWorld.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/HelloWorld.app/icon.png93"[1mCpResource[0m HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png6a4f156e45eeb841^42b5156e45eeb841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon.png00348ca8dcffdf42^609"[1mCpResource[0m HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"B6A0F089-F710-4DE6-AC81-36A0F2C50089-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png
+s418268526.084649
+e418268526.086969
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon@2x.png
+xbuild/emulator/HelloWorld.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon@2x.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png1cec156e45eeb841^f645166e45eeb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/icon@2x.png00348ca8dcffdf42^618"[1mCpResource[0m HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/icons/icon@2x.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"65277009-0030-478C-8172-0E06BF3F2D69-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+s418268526.126498
+e418268526.129518
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/HelloWorld.app/Default-568h@2x~iphone.png130"[1mCpResource[0m HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png317c206e45eeb841^c66c216e45eeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Default-568h@2x~iphone.png00348ca8dcffdf42^665"[1mCpResource[0m HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/splash/Default-568h@2x~iphone.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"A9E114E7-EB91-45BF-B8CA-B07649175E38-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+s418268526.101574
+e418268526.103321
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png136"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png0e121a6e45eeb841^e59a1a6e45eeb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png00348ca8dcffdf42^674"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"2A761E48-E5D6-4FF9-9A13-2E7C83A6C544-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+s418268526.103518
+e418268526.105582
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/HelloWorld.app/Default-Landscape~ipad.png130"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.pnga3921a6e45eeb841^ad321b6e45eeb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape~ipad.png00348ca8dcffdf42^665"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/splash/Default-Landscape~ipad.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"21C56E02-575C-47D8-B9E4-55674DF0F2A6-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+s418268526.105772
+e418268526.108367
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png134"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png41281b6e45eeb841^9cc11b6e45eeb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png00348ca8dcffdf42^671"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"99AD55C2-14F6-4E3E-8E20-B000DB9088AC-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+s418268526.111801
+e418268526.117704
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/emulator/HelloWorld.app/Default-Portrait~ipad.png128"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png29b41c6e45eeb841^80641e6e45eeb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait~ipad.png00348ca8dcffdf42^662"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/splash/Default-Portrait~ipad.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"5767DAC1-5E2C-4109-AD1A-DC7B725F93EB-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png
+s418268526.121065
+e418268526.122929
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/HelloWorld.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/emulator/HelloWorld.app/Default@2x~iphone.png120"[1mCpResource[0m HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png72151f6e45eeb841^1bb81f6e45eeb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Default@2x~iphone.png00348ca8dcffdf42^650"[1mCpResource[0m HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/splash/Default@2x~iphone.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"0E7A880E-788F-4A67-9C42-A3CDBC6A5B12-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CCpResource HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png
+s418268526.125186
+e418268526.126266
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default~iphone.png
+xbuild/emulator/HelloWorld.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/emulator/HelloWorld.app/Default~iphone.png114"[1mCpResource[0m HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png001f206e45eeb841^7e72206e45eeb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Default~iphone.png00348ca8dcffdf42^641"[1mCpResource[0m HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adriano/aplicativo/platforms/ios/HelloWorld/Resources/splash/Default~iphone.png /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"4EF5A6C8-8F64-4732-8C78-50F08769AFE8-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CGenerateDSYMFile /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app.dSYM /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+s418268528.191841
+e418268528.246230
+r1
+xGenerateDSYMFile
+x/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app.dSYM
+x/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generate /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app.dSYM108"[1mGenerateDSYMFile[0m [1mbuild/emulator/HelloWorld.app.dSYM[0m build/emulator/HelloWorld.app/HelloWorlde42f317045eeb841^001c3f7045eeb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app.dSYM00348ca8dcffdf42^625"[1mGenerateDSYMFile[0m [1mbuild/emulator/HelloWorld.app.dSYM[0m build/emulator/HelloWorld.app/HelloWorld    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/HelloWorld -o /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app.dSYM36"1221596C-1425-490E-A5AB-7B8CE912C8D3-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CLd /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/HelloWorld normal i386
+s418268527.898119
+e418268528.190629
+r1
+xLd
+x/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+xnormal
+xi386
+d/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+d/Users/adriano/aplicativo/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+d/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+d/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Link /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/HelloWorld63"[1mLd[0m build/emulator/HelloWorld.app/HelloWorld normal i3861904e66f45eeb841^17d7307045eeb841^---0#0#1#--1648"[1mLd[0m build/emulator/HelloWorld.app/HelloWorld normal i386    cd /Users/adriano/aplicativo/platforms/ios    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/adriano/aplicativo/platforms/ios/build/emulator -F/Users/adriano/aplicativo/platforms/ios/build/emulator -filelist /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/adriano/aplicativo/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework AssetsLibrary /Users/adriano/aplicativo/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld_dependency_info.dat -o /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/HelloWorld36"468CC43D-E7C6-4889-966F-3CB0E8004500-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CPhaseScriptExecution Copy\ www\ directory /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+s418268525.771590
+e418268526.079562
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.277s
+ouser	0m0.096s
+osys	0m0.163s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'146"[1mPhaseScriptExecution[0m Copy\ www\ directory build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh0309c66d45eeb841^5e66146e45eeb841^-42"real	0m0.277suser	0m0.096ssys	0m0.163s3(21%IDEActivityLogMessage2@14"real	0m0.277s-418268526#1#14#-0#-----2@14"user	0m0.096s-418268526#15#14#-0#-----2@13"sys	0m0.163s-418268526#29#13#-0#-----0#0#1#--346"[1mPhaseScriptExecution[0m Copy\ www\ directory build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh    cd /Users/adriano/aplicativo/platforms/ios    /bin/sh -c /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh36"CDD686E7-0B15-41CB-8681-B3BE310FF8FF-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CProcessInfoPlistFile /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Info.plist /Users/adriano/aplicativo/platforms/ios/HelloWorld/HelloWorld-Info.plist
+s418268525.764127
+e418268525.768718
+r1
+xProcessInfoPlistFile
+x/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Info.plist
+x/Users/adriano/aplicativo/platforms/ios/HelloWorld/HelloWorld-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Process /Users/adriano/aplicativo/platforms/ios/HelloWorld/HelloWorld-Info.plist110"[1mProcessInfoPlistFile[0m build/emulator/HelloWorld.app/Info.plist [1mHelloWorld/HelloWorld-Info.plist[0m84b7c36d45eeb841^5ce6c46d45eeb841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/adriano/aplicativo/platforms/ios/HelloWorld/HelloWorld-Info.plist0000000000000000^706"[1mProcessInfoPlistFile[0m build/emulator/HelloWorld.app/Info.plist [1mHelloWorld/HelloWorld-Info.plist[0m    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/adriano/aplicativo/platforms/ios/HelloWorld/HelloWorld-Info.plist -genpkginfo /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app/Info.plist36"401E1111-8709-4A82-A0F6-EA03F25FD96C-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CProcessPCH /var/folders/wk/zct9m71s0ls16mc4zdy13dpc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-ccaoxlikuvjpxpebwgjpwoyofdgg/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418268527.263273
+e418268527.783935
+r1
+xProcessPCH
+x/var/folders/wk/zct9m71s0ls16mc4zdy13dpc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-ccaoxlikuvjpxpebwgjpwoyofdgg/HelloWorld-Prefix.pch.pch
+xHelloWorld/HelloWorld-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adriano/aplicativo/platforms/ios/HelloWorld/HelloWorld-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile HelloWorld/HelloWorld-Prefix.pch310"[1mProcessPCH[0m /var/folders/wk/zct9m71s0ls16mc4zdy13dpc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-ccaoxlikuvjpxpebwgjpwoyofdgg/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere6cf436f45eeb841^eeb1c86f45eeb841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/adriano/aplicativo/platforms/ios/HelloWorld/HelloWorld-Prefix.pch0000000000000000^3681"[1mProcessPCH[0m /var/folders/wk/zct9m71s0ls16mc4zdy13dpc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-ccaoxlikuvjpxpebwgjpwoyofdgg/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adriano/aplicativo/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/adriano/aplicativo/platforms/ios/build/emulator/include -I/Users/adriano/aplicativo/platforms/ios/build/emulator/usr/local/lib/include -I/Users/adriano/aplicativo/platforms/ios/build/UninstalledProducts/include -I/Users/adriano/aplicativo/platforms/ios/build/emulator -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/adriano/aplicativo/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/adriano/aplicativo/platforms/ios/build/emulator --serialize-diagnostics /var/folders/wk/zct9m71s0ls16mc4zdy13dpc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-ccaoxlikuvjpxpebwgjpwoyofdgg/HelloWorld-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/wk/zct9m71s0ls16mc4zdy13dpc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-ccaoxlikuvjpxpebwgjpwoyofdgg/HelloWorld-Prefix.pch.d -c /Users/adriano/aplicativo/platforms/ios/HelloWorld/HelloWorld-Prefix.pch -o /var/folders/wk/zct9m71s0ls16mc4zdy13dpc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-ccaoxlikuvjpxpebwgjpwoyofdgg/HelloWorld-Prefix.pch.pch36"CFCF5567-0AD4-495A-8F4B-E8981C58EB71-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
+CTouch /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app
+s418268528.248322
+e418268528.254104
+r1
+xTouch
+x/Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Touch /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app43"[1mTouch[0m build/emulator/HelloWorld.appb5a43f7045eeb841^cf15417045eeb841^---0#0#1#--393"[1mTouch[0m build/emulator/HelloWorld.app    cd /Users/adriano/aplicativo/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/adriano/aplicativo/platforms/ios/build/emulator/HelloWorld.app36"B909A855-EE03-4E30-96D9-4F9940697823-
+bCE6FC864-ECD4-4FE0-B1DB-5034DEF50624
+
